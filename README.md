@@ -3,7 +3,7 @@
  
 ## rowma_ros
  アプリとROSをつなぐ仲介役の役割をしているネットワークシステム  
- 必要なパッケージやインストールについてはGithub／rowma／rowma＿rosを参照してください
+ 必要なパッケージやインストールについてはGithub／rowma／rowma＿rosを参照してください  
  $ rosrun rowma_ros rowma
  
 ## joy_twist
