@@ -4,7 +4,7 @@
 ## rowma_ros
  アプリとROSをつなぐ仲介役の役割をしているネットワークシステム  
  必要なパッケージやインストールについてはGithub／rowma／rowma＿rosを参照してください
- ＄ rosrun rowma_ros rowma
+ $ rosrun rowma_ros rowma
  
 ## joy_twist
  PS４のjoyコントローラでロボットに速度指令値を送るROSパッケージ  
